@@ -9,6 +9,10 @@
 
 This modpack is built to **_enhance your gameplay experience_** while providing the _**best possible performance**_ for your worlds. It includes _**quality-of-life mods**_ like Lightweight Inventory and Litematica to help with your progression and building.
 
+If you only want the mods folder, you can get it from our GitHub releases: https://github.com/cardosogpr/airyoptimized/releases
+
+If you find any bugs or feature requests submit on out GitHub issues page: https://github.com/cardosogpr/airyoptimized/issues
+
 ## List of Mods
 
 <details>
