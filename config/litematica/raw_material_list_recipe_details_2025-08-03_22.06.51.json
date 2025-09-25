@@ -1,0 +1,1605 @@
+[
+  {
+    "Item": "minecraft:redstone_torch",
+    "Count": 1,
+    "CraftingMaterials": {
+      "Item": "minecraft:redstone_torch",
+      "Count": 1,
+      "Type": "ONE",
+      "PrimaryId": 1056,
+      "Recipes": [
+        {
+          "NetworkId": 1056,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:redstone",
+            "minecraft:stick"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:redstone",
+              "Count": 1,
+              "RemainingMaterials": {
+                "Item": "minecraft:redstone",
+                "Count": 1,
+                "Type": "EMPTY"
+              }
+            },
+            {
+              "Item": "minecraft:stick",
+              "Count": 1,
+              "CraftingMaterials": {
+                "Item": "minecraft:stick",
+                "Count": 1,
+                "Type": "MULTI",
+                "PrimaryId": 1140,
+                "Recipes": [
+                  {
+                    "NetworkId": 1140,
+                    "Category": "minecraft:crafting_misc",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "#minecraft:planks",
+                      "#minecraft:planks"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_planks",
+                        "Count": 2,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:oak_planks",
+                          "Count": 2,
+                          "Type": "ONE",
+                          "PrimaryId": 805,
+                          "Recipes": [
+                            {
+                              "NetworkId": 805,
+                              "Category": "minecraft:crafting_building_blocks",
+                              "Type": "SHAPELESS",
+                              "Ingredients": [
+                                "#minecraft:oak_logs"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_log",
+                                  "Count": 1,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:oak_log",
+                                    "Count": 1,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:copper_ore",
+    "Count": 15,
+    "RemainingMaterials": {
+      "Item": "minecraft:copper_ore",
+      "Count": 15,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:stone_bricks",
+    "Count": 284,
+    "StonecutterMaterials": {
+      "Item": "minecraft:stone_bricks",
+      "Count": 284,
+      "Type": "ONE",
+      "PrimaryId": 1155,
+      "Recipes": [
+        {
+          "NetworkId": 1155,
+          "Category": "minecraft:stonecutter",
+          "Type": "STONECUTTER",
+          "Ingredients": [
+            "minecraft:stone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:stone",
+              "Count": 284,
+              "FurnaceMaterials": {
+                "Item": "minecraft:stone",
+                "Count": 284,
+                "Type": "ONE",
+                "PrimaryId": 1143,
+                "Recipes": [
+                  {
+                    "NetworkId": 1143,
+                    "Category": "minecraft:furnace_blocks",
+                    "Type": "FURNACE",
+                    "Ingredients": [
+                      "minecraft:cobblestone"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:cobblestone",
+                        "Count": 284,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:cobblestone",
+                          "Count": 284,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:oak_trapdoor",
+    "Count": 1,
+    "CraftingMaterials": {
+      "Item": "minecraft:oak_trapdoor",
+      "Count": 1,
+      "Type": "ONE",
+      "PrimaryId": 810,
+      "Recipes": [
+        {
+          "NetworkId": 810,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:oak_planks",
+            "minecraft:oak_planks",
+            "minecraft:oak_planks",
+            "minecraft:oak_planks",
+            "minecraft:oak_planks",
+            "minecraft:oak_planks"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:oak_planks",
+              "Count": 6,
+              "CraftingMaterials": {
+                "Item": "minecraft:oak_planks",
+                "Count": 6,
+                "Type": "ONE",
+                "PrimaryId": 805,
+                "Recipes": [
+                  {
+                    "NetworkId": 805,
+                    "Category": "minecraft:crafting_building_blocks",
+                    "Type": "SHAPELESS",
+                    "Ingredients": [
+                      "#minecraft:oak_logs"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_log",
+                        "Count": 2,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:oak_log",
+                          "Count": 2,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:redstone_block",
+    "Count": 1,
+    "CraftingMaterials": {
+      "Item": "minecraft:redstone_block",
+      "Count": 1,
+      "Type": "ONE",
+      "PrimaryId": 1050,
+      "Recipes": [
+        {
+          "NetworkId": 1050,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:redstone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:redstone",
+              "Count": 9,
+              "RemainingMaterials": {
+                "Item": "minecraft:redstone",
+                "Count": 9,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:glass",
+    "Count": 1326,
+    "FurnaceMaterials": {
+      "Item": "minecraft:glass",
+      "Count": 1326,
+      "Type": "ONE",
+      "PrimaryId": 516,
+      "Recipes": [
+        {
+          "NetworkId": 516,
+          "Category": "minecraft:furnace_blocks",
+          "Type": "FURNACE",
+          "Ingredients": [
+            "#minecraft:smelts_to_glass"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:sand",
+              "Count": 1326,
+              "RemainingMaterials": {
+                "Item": "minecraft:sand",
+                "Count": 1326,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:short_grass",
+    "Count": 3,
+    "RemainingMaterials": {
+      "Item": "minecraft:short_grass",
+      "Count": 3,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:dirt",
+    "Count": 143,
+    "RemainingMaterials": {
+      "Item": "minecraft:dirt",
+      "Count": 143,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:lever",
+    "Count": 1,
+    "CraftingMaterials": {
+      "Item": "minecraft:lever",
+      "Count": 1,
+      "Type": "ONE",
+      "PrimaryId": 651,
+      "Recipes": [
+        {
+          "NetworkId": 651,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:stick",
+            "minecraft:cobblestone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:stick",
+              "Count": 1,
+              "CraftingMaterials": {
+                "Item": "minecraft:stick",
+                "Count": 1,
+                "Type": "MULTI",
+                "PrimaryId": 1140,
+                "Recipes": [
+                  {
+                    "NetworkId": 1140,
+                    "Category": "minecraft:crafting_misc",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "#minecraft:planks",
+                      "#minecraft:planks"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_planks",
+                        "Count": 2,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:oak_planks",
+                          "Count": 2,
+                          "Type": "ONE",
+                          "PrimaryId": 805,
+                          "Recipes": [
+                            {
+                              "NetworkId": 805,
+                              "Category": "minecraft:crafting_building_blocks",
+                              "Type": "SHAPELESS",
+                              "Ingredients": [
+                                "#minecraft:oak_logs"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_log",
+                                  "Count": 1,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:oak_log",
+                                    "Count": 1,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:cobblestone",
+              "Count": 1,
+              "RemainingMaterials": {
+                "Item": "minecraft:cobblestone",
+                "Count": 1,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:slime_block",
+    "Count": 18,
+    "CraftingMaterials": {
+      "Item": "minecraft:slime_block",
+      "Count": 18,
+      "Type": "ONE",
+      "PrimaryId": 1092,
+      "Recipes": [
+        {
+          "NetworkId": 1092,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:slime_ball",
+            "minecraft:slime_ball",
+            "minecraft:slime_ball",
+            "minecraft:slime_ball",
+            "minecraft:slime_ball",
+            "minecraft:slime_ball",
+            "minecraft:slime_ball",
+            "minecraft:slime_ball",
+            "minecraft:slime_ball"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:slime_ball",
+              "Count": 162,
+              "RemainingMaterials": {
+                "Item": "minecraft:slime_ball",
+                "Count": 162,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:sticky_piston",
+    "Count": 4,
+    "CraftingMaterials": {
+      "Item": "minecraft:sticky_piston",
+      "Count": 4,
+      "Type": "ONE",
+      "PrimaryId": 1142,
+      "Recipes": [
+        {
+          "NetworkId": 1142,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:slime_ball",
+            "minecraft:piston"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:piston",
+              "Count": 4,
+              "CraftingMaterials": {
+                "Item": "minecraft:piston",
+                "Count": 4,
+                "Type": "ONE",
+                "PrimaryId": 881,
+                "Recipes": [
+                  {
+                    "NetworkId": 881,
+                    "Category": "minecraft:crafting_redstone",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "minecraft:cobblestone",
+                      "minecraft:iron_ingot",
+                      "minecraft:cobblestone",
+                      "minecraft:cobblestone",
+                      "minecraft:redstone",
+                      "minecraft:cobblestone"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:redstone",
+                        "Count": 4,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:redstone",
+                          "Count": 4,
+                          "Type": "EMPTY"
+                        }
+                      },
+                      {
+                        "Item": "minecraft:oak_planks",
+                        "Count": 12,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:oak_planks",
+                          "Count": 12,
+                          "Type": "ONE",
+                          "PrimaryId": 805,
+                          "Recipes": [
+                            {
+                              "NetworkId": 805,
+                              "Category": "minecraft:crafting_building_blocks",
+                              "Type": "SHAPELESS",
+                              "Ingredients": [
+                                "#minecraft:oak_logs"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_log",
+                                  "Count": 3,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:oak_log",
+                                    "Count": 3,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Item": "minecraft:cobblestone",
+                        "Count": 16,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:cobblestone",
+                          "Count": 16,
+                          "Type": "EMPTY"
+                        }
+                      },
+                      {
+                        "Item": "minecraft:iron_ingot",
+                        "Count": 4,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:iron_ingot",
+                          "Count": 4,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:slime_ball",
+              "Count": 4,
+              "RemainingMaterials": {
+                "Item": "minecraft:slime_ball",
+                "Count": 4,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:coal_ore",
+    "Count": 15,
+    "RemainingMaterials": {
+      "Item": "minecraft:coal_ore",
+      "Count": 15,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:obsidian",
+    "Count": 3,
+    "RemainingMaterials": {
+      "Item": "minecraft:obsidian",
+      "Count": 3,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:redstone",
+    "Count": 2,
+    "RemainingMaterials": {
+      "Item": "minecraft:redstone",
+      "Count": 2,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:repeater",
+    "Count": 1,
+    "CraftingMaterials": {
+      "Item": "minecraft:repeater",
+      "Count": 1,
+      "Type": "ONE",
+      "PrimaryId": 1057,
+      "Recipes": [
+        {
+          "NetworkId": 1057,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:redstone_torch",
+            "minecraft:redstone",
+            "minecraft:redstone_torch",
+            "minecraft:stone",
+            "minecraft:stone",
+            "minecraft:stone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:redstone",
+              "Count": 1,
+              "RemainingMaterials": {
+                "Item": "minecraft:redstone",
+                "Count": 1,
+                "Type": "EMPTY"
+              }
+            },
+            {
+              "Item": "minecraft:redstone_torch",
+              "Count": 2,
+              "CraftingMaterials": {
+                "Item": "minecraft:redstone_torch",
+                "Count": 2,
+                "Type": "ONE",
+                "PrimaryId": 1056,
+                "Recipes": [
+                  {
+                    "NetworkId": 1056,
+                    "Category": "minecraft:crafting_redstone",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "minecraft:redstone",
+                      "minecraft:stick"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:redstone",
+                        "Count": 2,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:redstone",
+                          "Count": 2,
+                          "Type": "EMPTY"
+                        }
+                      },
+                      {
+                        "Item": "minecraft:stick",
+                        "Count": 2,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:stick",
+                          "Count": 2,
+                          "Type": "MULTI",
+                          "PrimaryId": 1140,
+                          "Recipes": [
+                            {
+                              "NetworkId": 1140,
+                              "Category": "minecraft:crafting_misc",
+                              "Type": "SHAPED",
+                              "Ingredients": [
+                                "#minecraft:planks",
+                                "#minecraft:planks"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_planks",
+                                  "Count": 2,
+                                  "CraftingMaterials": {
+                                    "Item": "minecraft:oak_planks",
+                                    "Count": 2,
+                                    "Type": "ONE",
+                                    "PrimaryId": 805,
+                                    "Recipes": [
+                                      {
+                                        "NetworkId": 805,
+                                        "Category": "minecraft:crafting_building_blocks",
+                                        "Type": "SHAPELESS",
+                                        "Ingredients": [
+                                          "#minecraft:oak_logs"
+                                        ],
+                                        "Requirements": [
+                                          {
+                                            "Item": "minecraft:oak_log",
+                                            "Count": 1,
+                                            "RemainingMaterials": {
+                                              "Item": "minecraft:oak_log",
+                                              "Count": 1,
+                                              "Type": "EMPTY"
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:stone",
+              "Count": 3,
+              "FurnaceMaterials": {
+                "Item": "minecraft:stone",
+                "Count": 3,
+                "Type": "ONE",
+                "PrimaryId": 1143,
+                "Recipes": [
+                  {
+                    "NetworkId": 1143,
+                    "Category": "minecraft:furnace_blocks",
+                    "Type": "FURNACE",
+                    "Ingredients": [
+                      "minecraft:cobblestone"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:cobblestone",
+                        "Count": 3,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:cobblestone",
+                          "Count": 3,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:powered_rail",
+    "Count": 200,
+    "CraftingMaterials": {
+      "Item": "minecraft:powered_rail",
+      "Count": 200,
+      "Type": "ONE",
+      "PrimaryId": 959,
+      "Recipes": [
+        {
+          "NetworkId": 959,
+          "Category": "minecraft:crafting_misc",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:gold_ingot",
+            "minecraft:gold_ingot",
+            "minecraft:gold_ingot",
+            "minecraft:stick",
+            "minecraft:gold_ingot",
+            "minecraft:gold_ingot",
+            "minecraft:redstone",
+            "minecraft:gold_ingot"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:redstone",
+              "Count": 34,
+              "RemainingMaterials": {
+                "Item": "minecraft:redstone",
+                "Count": 34,
+                "Type": "EMPTY"
+              }
+            },
+            {
+              "Item": "minecraft:gold_ingot",
+              "Count": 204,
+              "RemainingMaterials": {
+                "Item": "minecraft:gold_ingot",
+                "Count": 204,
+                "Type": "EMPTY"
+              }
+            },
+            {
+              "Item": "minecraft:stick",
+              "Count": 34,
+              "CraftingMaterials": {
+                "Item": "minecraft:stick",
+                "Count": 34,
+                "Type": "MULTI",
+                "PrimaryId": 1140,
+                "Recipes": [
+                  {
+                    "NetworkId": 1140,
+                    "Category": "minecraft:crafting_misc",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "#minecraft:planks",
+                      "#minecraft:planks"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_planks",
+                        "Count": 18,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:oak_planks",
+                          "Count": 18,
+                          "Type": "ONE",
+                          "PrimaryId": 805,
+                          "Recipes": [
+                            {
+                              "NetworkId": 805,
+                              "Category": "minecraft:crafting_building_blocks",
+                              "Type": "SHAPELESS",
+                              "Ingredients": [
+                                "#minecraft:oak_logs"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_log",
+                                  "Count": 5,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:oak_log",
+                                    "Count": 5,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:oak_fence",
+    "Count": 3,
+    "CraftingMaterials": {
+      "Item": "minecraft:oak_fence",
+      "Count": 3,
+      "Type": "ONE",
+      "PrimaryId": 802,
+      "Recipes": [
+        {
+          "NetworkId": 802,
+          "Category": "minecraft:crafting_misc",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:oak_planks",
+            "minecraft:stick",
+            "minecraft:oak_planks",
+            "minecraft:oak_planks",
+            "minecraft:stick",
+            "minecraft:oak_planks"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:stick",
+              "Count": 2,
+              "CraftingMaterials": {
+                "Item": "minecraft:stick",
+                "Count": 2,
+                "Type": "MULTI",
+                "PrimaryId": 1140,
+                "Recipes": [
+                  {
+                    "NetworkId": 1140,
+                    "Category": "minecraft:crafting_misc",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "#minecraft:planks",
+                      "#minecraft:planks"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_planks",
+                        "Count": 2,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:oak_planks",
+                          "Count": 2,
+                          "Type": "ONE",
+                          "PrimaryId": 805,
+                          "Recipes": [
+                            {
+                              "NetworkId": 805,
+                              "Category": "minecraft:crafting_building_blocks",
+                              "Type": "SHAPELESS",
+                              "Ingredients": [
+                                "#minecraft:oak_logs"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_log",
+                                  "Count": 1,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:oak_log",
+                                    "Count": 1,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:oak_planks",
+              "Count": 4,
+              "CraftingMaterials": {
+                "Item": "minecraft:oak_planks",
+                "Count": 4,
+                "Type": "ONE",
+                "PrimaryId": 805,
+                "Recipes": [
+                  {
+                    "NetworkId": 805,
+                    "Category": "minecraft:crafting_building_blocks",
+                    "Type": "SHAPELESS",
+                    "Ingredients": [
+                      "#minecraft:oak_logs"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_log",
+                        "Count": 1,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:oak_log",
+                          "Count": 1,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:hopper",
+    "Count": 22,
+    "CraftingMaterials": {
+      "Item": "minecraft:hopper",
+      "Count": 22,
+      "Type": "ONE",
+      "PrimaryId": 589,
+      "Recipes": [
+        {
+          "NetworkId": 589,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:iron_ingot",
+            "minecraft:iron_ingot",
+            "minecraft:iron_ingot",
+            "minecraft:chest",
+            "minecraft:iron_ingot",
+            "minecraft:iron_ingot"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:iron_ingot",
+              "Count": 110,
+              "RemainingMaterials": {
+                "Item": "minecraft:iron_ingot",
+                "Count": 110,
+                "Type": "EMPTY"
+              }
+            },
+            {
+              "Item": "minecraft:chest",
+              "Count": 22,
+              "CraftingMaterials": {
+                "Item": "minecraft:chest",
+                "Count": 22,
+                "Type": "ONE",
+                "PrimaryId": 163,
+                "Recipes": [
+                  {
+                    "NetworkId": 163,
+                    "Category": "minecraft:crafting_misc",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "#minecraft:planks",
+                      "#minecraft:planks"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_planks",
+                        "Count": 176,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:oak_planks",
+                          "Count": 176,
+                          "Type": "ONE",
+                          "PrimaryId": 805,
+                          "Recipes": [
+                            {
+                              "NetworkId": 805,
+                              "Category": "minecraft:crafting_building_blocks",
+                              "Type": "SHAPELESS",
+                              "Ingredients": [
+                                "#minecraft:oak_logs"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_log",
+                                  "Count": 44,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:oak_log",
+                                    "Count": 44,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:sugar_cane",
+    "Count": 1358,
+    "RemainingMaterials": {
+      "Item": "minecraft:sugar_cane",
+      "Count": 1358,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:comparator",
+    "Count": 2,
+    "CraftingMaterials": {
+      "Item": "minecraft:comparator",
+      "Count": 2,
+      "Type": "ONE",
+      "PrimaryId": 216,
+      "Recipes": [
+        {
+          "NetworkId": 216,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:redstone_torch",
+            "minecraft:redstone_torch",
+            "minecraft:quartz",
+            "minecraft:redstone_torch",
+            "minecraft:stone",
+            "minecraft:stone",
+            "minecraft:stone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:quartz",
+              "Count": 2,
+              "FurnaceMaterials": {
+                "Item": "minecraft:quartz",
+                "Count": 2,
+                "Type": "MULTI",
+                "PrimaryId": 995,
+                "Recipes": [
+                  {
+                    "NetworkId": 995,
+                    "Category": "minecraft:furnace_misc",
+                    "Type": "FURNACE",
+                    "Ingredients": [
+                      "minecraft:nether_quartz_ore"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:nether_quartz_ore",
+                        "Count": 2,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:nether_quartz_ore",
+                          "Count": 2,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:redstone_torch",
+              "Count": 6,
+              "CraftingMaterials": {
+                "Item": "minecraft:redstone_torch",
+                "Count": 6,
+                "Type": "ONE",
+                "PrimaryId": 1056,
+                "Recipes": [
+                  {
+                    "NetworkId": 1056,
+                    "Category": "minecraft:crafting_redstone",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "minecraft:redstone",
+                      "minecraft:stick"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:redstone",
+                        "Count": 6,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:redstone",
+                          "Count": 6,
+                          "Type": "EMPTY"
+                        }
+                      },
+                      {
+                        "Item": "minecraft:stick",
+                        "Count": 6,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:stick",
+                          "Count": 6,
+                          "Type": "MULTI",
+                          "PrimaryId": 1140,
+                          "Recipes": [
+                            {
+                              "NetworkId": 1140,
+                              "Category": "minecraft:crafting_misc",
+                              "Type": "SHAPED",
+                              "Ingredients": [
+                                "#minecraft:planks",
+                                "#minecraft:planks"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_planks",
+                                  "Count": 4,
+                                  "CraftingMaterials": {
+                                    "Item": "minecraft:oak_planks",
+                                    "Count": 4,
+                                    "Type": "ONE",
+                                    "PrimaryId": 805,
+                                    "Recipes": [
+                                      {
+                                        "NetworkId": 805,
+                                        "Category": "minecraft:crafting_building_blocks",
+                                        "Type": "SHAPELESS",
+                                        "Ingredients": [
+                                          "#minecraft:oak_logs"
+                                        ],
+                                        "Requirements": [
+                                          {
+                                            "Item": "minecraft:oak_log",
+                                            "Count": 1,
+                                            "RemainingMaterials": {
+                                              "Item": "minecraft:oak_log",
+                                              "Count": 1,
+                                              "Type": "EMPTY"
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:stone",
+              "Count": 6,
+              "FurnaceMaterials": {
+                "Item": "minecraft:stone",
+                "Count": 6,
+                "Type": "ONE",
+                "PrimaryId": 1143,
+                "Recipes": [
+                  {
+                    "NetworkId": 1143,
+                    "Category": "minecraft:furnace_blocks",
+                    "Type": "FURNACE",
+                    "Ingredients": [
+                      "minecraft:cobblestone"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:cobblestone",
+                        "Count": 6,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:cobblestone",
+                          "Count": 6,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:grass_block",
+    "Count": 707,
+    "RemainingMaterials": {
+      "Item": "minecraft:grass_block",
+      "Count": 707,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:cobblestone",
+    "Count": 14,
+    "RemainingMaterials": {
+      "Item": "minecraft:cobblestone",
+      "Count": 14,
+      "Type": "EMPTY"
+    }
+  },
+  {
+    "Item": "minecraft:observer",
+    "Count": 3,
+    "CraftingMaterials": {
+      "Item": "minecraft:observer",
+      "Count": 3,
+      "Type": "ONE",
+      "PrimaryId": 812,
+      "Recipes": [
+        {
+          "NetworkId": 812,
+          "Category": "minecraft:crafting_redstone",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:cobblestone",
+            "minecraft:cobblestone",
+            "minecraft:cobblestone",
+            "minecraft:redstone",
+            "minecraft:redstone",
+            "minecraft:quartz",
+            "minecraft:cobblestone",
+            "minecraft:cobblestone",
+            "minecraft:cobblestone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:redstone",
+              "Count": 6,
+              "RemainingMaterials": {
+                "Item": "minecraft:redstone",
+                "Count": 6,
+                "Type": "EMPTY"
+              }
+            },
+            {
+              "Item": "minecraft:quartz",
+              "Count": 3,
+              "FurnaceMaterials": {
+                "Item": "minecraft:quartz",
+                "Count": 3,
+                "Type": "MULTI",
+                "PrimaryId": 995,
+                "Recipes": [
+                  {
+                    "NetworkId": 995,
+                    "Category": "minecraft:furnace_misc",
+                    "Type": "FURNACE",
+                    "Ingredients": [
+                      "minecraft:nether_quartz_ore"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:nether_quartz_ore",
+                        "Count": 3,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:nether_quartz_ore",
+                          "Count": 3,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:cobblestone",
+              "Count": 18,
+              "RemainingMaterials": {
+                "Item": "minecraft:cobblestone",
+                "Count": 18,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:oak_planks",
+    "Count": 1,
+    "CraftingMaterials": {
+      "Item": "minecraft:oak_planks",
+      "Count": 1,
+      "Type": "ONE",
+      "PrimaryId": 805,
+      "Recipes": [
+        {
+          "NetworkId": 805,
+          "Category": "minecraft:crafting_building_blocks",
+          "Type": "SHAPELESS",
+          "Ingredients": [
+            "#minecraft:oak_logs"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:oak_log",
+              "Count": 1,
+              "RemainingMaterials": {
+                "Item": "minecraft:oak_log",
+                "Count": 1,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:stone",
+    "Count": 1046,
+    "FurnaceMaterials": {
+      "Item": "minecraft:stone",
+      "Count": 1046,
+      "Type": "ONE",
+      "PrimaryId": 1143,
+      "Recipes": [
+        {
+          "NetworkId": 1143,
+          "Category": "minecraft:furnace_blocks",
+          "Type": "FURNACE",
+          "Ingredients": [
+            "minecraft:cobblestone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:cobblestone",
+              "Count": 1046,
+              "RemainingMaterials": {
+                "Item": "minecraft:cobblestone",
+                "Count": 1046,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:stone_brick_slab",
+    "Count": 126,
+    "StonecutterMaterials": {
+      "Item": "minecraft:stone_brick_slab",
+      "Count": 126,
+      "Type": "MULTI",
+      "PrimaryId": 1146,
+      "Recipes": [
+        {
+          "NetworkId": 1146,
+          "Category": "minecraft:stonecutter",
+          "Type": "STONECUTTER",
+          "Ingredients": [
+            "minecraft:stone_bricks"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:stone_bricks",
+              "Count": 63,
+              "StonecutterMaterials": {
+                "Item": "minecraft:stone_bricks",
+                "Count": 63,
+                "Type": "ONE",
+                "PrimaryId": 1155,
+                "Recipes": [
+                  {
+                    "NetworkId": 1155,
+                    "Category": "minecraft:stonecutter",
+                    "Type": "STONECUTTER",
+                    "Ingredients": [
+                      "minecraft:stone"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:stone",
+                        "Count": 63,
+                        "FurnaceMaterials": {
+                          "Item": "minecraft:stone",
+                          "Count": 63,
+                          "Type": "ONE",
+                          "PrimaryId": 1143,
+                          "Recipes": [
+                            {
+                              "NetworkId": 1143,
+                              "Category": "minecraft:furnace_blocks",
+                              "Type": "FURNACE",
+                              "Ingredients": [
+                                "minecraft:cobblestone"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:cobblestone",
+                                  "Count": 63,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:cobblestone",
+                                    "Count": 63,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:rail",
+    "Count": 600,
+    "CraftingMaterials": {
+      "Item": "minecraft:rail",
+      "Count": 600,
+      "Type": "ONE",
+      "PrimaryId": 1008,
+      "Recipes": [
+        {
+          "NetworkId": 1008,
+          "Category": "minecraft:crafting_misc",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:iron_ingot",
+            "minecraft:iron_ingot",
+            "minecraft:iron_ingot",
+            "minecraft:stick",
+            "minecraft:iron_ingot",
+            "minecraft:iron_ingot",
+            "minecraft:iron_ingot"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:stick",
+              "Count": 38,
+              "CraftingMaterials": {
+                "Item": "minecraft:stick",
+                "Count": 38,
+                "Type": "MULTI",
+                "PrimaryId": 1140,
+                "Recipes": [
+                  {
+                    "NetworkId": 1140,
+                    "Category": "minecraft:crafting_misc",
+                    "Type": "SHAPED",
+                    "Ingredients": [
+                      "#minecraft:planks",
+                      "#minecraft:planks"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:oak_planks",
+                        "Count": 20,
+                        "CraftingMaterials": {
+                          "Item": "minecraft:oak_planks",
+                          "Count": 20,
+                          "Type": "ONE",
+                          "PrimaryId": 805,
+                          "Recipes": [
+                            {
+                              "NetworkId": 805,
+                              "Category": "minecraft:crafting_building_blocks",
+                              "Type": "SHAPELESS",
+                              "Ingredients": [
+                                "#minecraft:oak_logs"
+                              ],
+                              "Requirements": [
+                                {
+                                  "Item": "minecraft:oak_log",
+                                  "Count": 5,
+                                  "RemainingMaterials": {
+                                    "Item": "minecraft:oak_log",
+                                    "Count": 5,
+                                    "Type": "EMPTY"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:iron_ingot",
+              "Count": 228,
+              "RemainingMaterials": {
+                "Item": "minecraft:iron_ingot",
+                "Count": 228,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Item": "minecraft:diorite",
+    "Count": 54,
+    "CraftingMaterials": {
+      "Item": "minecraft:diorite",
+      "Count": 54,
+      "Type": "ONE",
+      "PrimaryId": 383,
+      "Recipes": [
+        {
+          "NetworkId": 383,
+          "Category": "minecraft:crafting_building_blocks",
+          "Type": "SHAPED",
+          "Ingredients": [
+            "minecraft:cobblestone",
+            "minecraft:quartz",
+            "minecraft:quartz",
+            "minecraft:cobblestone"
+          ],
+          "Requirements": [
+            {
+              "Item": "minecraft:quartz",
+              "Count": 54,
+              "FurnaceMaterials": {
+                "Item": "minecraft:quartz",
+                "Count": 54,
+                "Type": "MULTI",
+                "PrimaryId": 995,
+                "Recipes": [
+                  {
+                    "NetworkId": 995,
+                    "Category": "minecraft:furnace_misc",
+                    "Type": "FURNACE",
+                    "Ingredients": [
+                      "minecraft:nether_quartz_ore"
+                    ],
+                    "Requirements": [
+                      {
+                        "Item": "minecraft:nether_quartz_ore",
+                        "Count": 54,
+                        "RemainingMaterials": {
+                          "Item": "minecraft:nether_quartz_ore",
+                          "Count": 54,
+                          "Type": "EMPTY"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Item": "minecraft:cobblestone",
+              "Count": 54,
+              "RemainingMaterials": {
+                "Item": "minecraft:cobblestone",
+                "Count": 54,
+                "Type": "EMPTY"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

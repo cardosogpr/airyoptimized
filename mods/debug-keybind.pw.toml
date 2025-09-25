@@ -1,0 +1,13 @@
+name = "Debug Keybind"
+filename = "debugkeybind-fabric-16.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DX9ioka8/versions/4p5pjdIc/debugkeybind-fabric-16.0.1.jar"
+hash-format = "sha512"
+hash = "b028b09c99e157192eb5470104439f2668ea54d6c7fc7ba7fdf4942f72f20f22ff8a519503340f2c21202107ca65423ab1f897ecb469939cebfbceddcf791e3e"
+
+[update]
+[update.modrinth]
+mod-id = "DX9ioka8"
+version = "4p5pjdIc"

@@ -1,0 +1,36 @@
++---------------------+-------+---------+----------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+
+| Sugar Cane          |  1358 |    1358 |              0 |
+| Glass               |  1326 |    1326 |              0 |
+| Stone               |  1046 |    1046 |              0 |
+| Grass Block         |   707 |     707 |              0 |
+| Rail                |   600 |     600 |              0 |
+| Stone Bricks        |   284 |     284 |              0 |
+| Powered Rail        |   200 |     200 |              0 |
+| Dirt                |   143 |     143 |            140 |
+| Stone Brick Slab    |   126 |     126 |              0 |
+| Diorite             |    54 |      54 |              0 |
+| Hopper              |    22 |      22 |              0 |
+| Slime Block         |    18 |      18 |              0 |
+| Coal Ore            |    15 |      15 |              0 |
+| Copper Ore          |    15 |      15 |              0 |
+| Cobblestone         |    14 |      14 |             54 |
+| Sticky Piston       |     4 |       4 |              0 |
+| Oak Fence           |     3 |       3 |              0 |
+| Observer            |     3 |       3 |              0 |
+| Obsidian            |     3 |       3 |              0 |
+| Short Grass         |     3 |       3 |              0 |
+| Redstone Comparator |     2 |       2 |              0 |
+| Redstone Dust       |     2 |       2 |              0 |
+| Block of Redstone   |     1 |       1 |              0 |
+| Lever               |     1 |       1 |              0 |
+| Oak Planks          |     1 |       1 |              0 |
+| Oak Trapdoor        |     1 |       1 |              0 |
+| Redstone Repeater   |     1 |       1 |              0 |
+| Redstone Torch      |     1 |       1 |              0 |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+
