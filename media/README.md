@@ -12,22 +12,22 @@ All tests were performed using the following setup:
 
 ## Metrics
 
-- **High Settings:** 32 Render Distance and Fancy Graphics, the game will around 319 FPS. Image 
-- **Low Settings:** 8 Render Distance and Fast Graphics, the game will around 1128 FPS. Image 
-- **Modpack by default:** 12 Render Distance and Fancy Graphics, the game will arround 969 FPS. Image 
+- **High Settings:** 32 Render Distance and Fancy Graphics, the game will around 319 FPS. [Image](highfps.png)
+- **Low Settings:** 8 Render Distance and Fast Graphics, the game will around 1128 FPS. [Image](lowfps.png)
+- **Modpack by default:** 12 Render Distance and Fancy Graphics, the game will arround 969 FPS. [Image](defaultfps.png)
 
 ## Settings Used
 
 ### High 
 
-- Quality
-- General
+- [Quality](highsettings_quality.png)
+- [General](highsettings_general.png)
   
 ## Low
 
-- Quality
-- General
+- [Quality](lowsettings_quality.png)
+- [General](lowsettings_general.png)
   
 ## Default
-- Quality
-- General
+- [Quality](defaultsettings_quality.png)
+- [General](defaultsettings_general.png)
