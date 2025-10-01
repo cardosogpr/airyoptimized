@@ -1,6 +1,6 @@
 # Airy Optimized
 
-[![Discord](https://img.shields.io/discord/1164279966649819246?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/88g7tCkBs9)
+[![Discord](https://img.shields.io/discord/1422976931258831051?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/trZANaBVYD)
 [![Modrinth Version](https://img.shields.io/modrinth/v/airy-optimized?label=Version&logo=modrinth&style=for-the-badge)](https://modrinth.com/modpack/airy-optimized)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/airy-optimized?label=Downloads&style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/airy-optimized)
 
