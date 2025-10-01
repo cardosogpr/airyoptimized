@@ -4,6 +4,61 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+
+## [0.6-alpha for 1.21.9] - 01-10-2025
+
+This is a alpha version for 1.21.9.
+Some mods are not avaibable yet, there is the list:
+
+### **Updated**
+
+- Capes
+- Cloth Config API
+- Dynamic FPS
+- Fabric API
+- Fabric Language Kotlin
+- ImmediatelyFast
+- Iris Shaders
+- Litematica
+- Lithium
+- MaLiLib
+- More Culling
+- Shulker Box Tooltip
+- Sodium
+- Text Placeholder API
+- Xaero's World Map
+- YACL
+- Zoomify
+
+### **Removed**
+- EMF
+- ETF
+- AppleSkin
+- Architectury API
+- Better Statistics Screen
+- Better F3
+- BoxLib
+- Cherished Worlds
+- Clumps
+- Day Count
+- Debug Keybind
+- Debugify
+- Enttiy Culling
+- Falling Leaves
+- FerriteCore
+- Language Reload
+- Lightweight Inventory
+- Lighty
+- Litematica Printer
+- Mod Menu
+- Mouse Tweaks
+- No Chat Reports
+- OptiGUI
+- Reese's Sodium Options
+- Sodium Extra
+- spark
+- TCDCommons API
+
 ## [0.5.4 for 1.21.8] - 30-09-2025
 
 ### Updated
