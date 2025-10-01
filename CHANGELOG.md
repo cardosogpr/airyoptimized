@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.5.5 for 1.21.8] - 01-10-2025
+
+### Fixed
+
+Minecraft crashing when joining a world.
+
+### Downgrade
+
+- Iris Shaders 
+- Sodium 
 
 ## [0.6-alpha for 1.21.9] - 01-10-2025
 
