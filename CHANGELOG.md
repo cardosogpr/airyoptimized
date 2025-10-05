@@ -4,6 +4,45 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.6-1-alpha for 1.21.9] - 05-10-2025
+
+## Added
+
+- Architectury API
+- FerriteCore
+- Falling Leaves
+- spark
+- Reese's Sodium Options
+- Clumps
+
+## Updated
+
+- Lithium
+- Xaero's World Map
+
+## Still without a update
+
+- EMF
+- ETF
+- AppleSkin
+- Better Statistics Screen
+- Better F3
+- BoxLib
+- Cherished Worlds
+- Day Count
+- Debug Keybind
+- Debugify
+- Enttiy Culling
+- Language Reload
+- Lightweight Inventory
+- Lighty
+- Litematica Printer
+- Mouse Tweaks
+- No Chat Reports
+- OptiGUI
+- Sodium Extra
+- TCDCommons API
+
 ## [0.5.5 for 1.21.8] - 01-10-2025
 
 ### Fixed
