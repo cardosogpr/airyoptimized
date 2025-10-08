@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.6.3-beta for 1.21.9] - 08-10-2025
+
+### Added
+
+- Inventory Profiles Next (replaces Lightweight Inventory Sorting)
+- Simple Day Display (replaces DayCount)
+- ShulkerTooltip
+- Some mods are added in the previous version but i forgot to log it
+  
+### Removed
+
+- NoChatsReport
+
+### Fixed
+
+- Fixed a problem when you opening a chest the map just crash
+
 ## [0.6.2-alpha for 1.21.9] - 08-10-2025
 
 ### Removed
