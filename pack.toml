@@ -1,13 +1,13 @@
 name = "Airy Optimized"
 author = "ArrozNaTwitch"
-version = "0.5.3"
+version = "0.6.2-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0ba17fbbe11333ce6ae4b7c5799b0a1c2eaf5a076aedca2da6d7b297b2b4c66b"
+hash = "84df4239de48829278abe449bfecc964f6ba0e4c794b354bf34d70aea2457ff2"
 
 [versions]
 fabric = "0.17.2"
-minecraft = "1.21.8"
+minecraft = "1.21.9"
