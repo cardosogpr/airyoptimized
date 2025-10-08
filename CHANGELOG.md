@@ -4,7 +4,31 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [0.6-1-alpha for 1.21.9] - 05-10-2025
+## [0.6.2-alpha for 1.21.9] - 08-10-2025
+
+### Removed
+
+- BetterStaticScreen
+- BetterF3
+- BoxLibl
+- DayCount
+- Debug Keybind
+- Debugify
+- ShulkerBox Tooltip
+- TCDCommands API
+- Language Reload
+- Lighty
+- Lightweight Inventory Sorter
+
+### Updated
+
+- All the others mods get the newest version.
+
+### Info
+
+- I'll get new mods to replace the oldest mods without a newer version, because some of the mods there are removed are from 1.21.6. Probably in the next version i'll replace them.
+
+## [0.6.1-alpha for 1.21.9] - 05-10-2025
 
 ## Added
 
