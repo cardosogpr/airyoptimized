@@ -1,0 +1,13 @@
+name = "Simple Day Display"
+filename = "simple-day-display-88.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/suiPCM19/versions/slcQF0s0/simple-day-display-88.jar"
+hash-format = "sha512"
+hash = "5683092f8f062ae3eb340edae0fb96f1d2517340fc96a6689385b874cc70a934c2b32e18ee9fcb04a9495de1f0db96444450e5732352353c79c3a217921bee7a"
+
+[update]
+[update.modrinth]
+mod-id = "suiPCM19"
+version = "slcQF0s0"

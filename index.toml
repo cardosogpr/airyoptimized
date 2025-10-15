@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2f5672a13bf26c5b610a771d9a7af3908b683c472d791ae3d885162be1694482"
+hash = "f143169efd09e4a8daa0c9fb9817000df949987ae25eb4a3273494d9dcf39f0e"
 
 [[files]]
 file = "CONTRIBUTING.md"
@@ -23,26 +23,6 @@ hash = "30bb7a216f60797a36786edf7393c9351da1526ebadcc0dddc10e94707d093c6"
 [[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
-
-[[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "26fac3bc5aa3c2d17491a4dc64e6749d7c7b1f54e0352f23cca9f14aee6867de"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "b70210e81692c58133ce837ca2975896da7f84feba5f57c263852c3ee3478b94"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "7b5f308b39a139ba90bfde781112a4d0e5ca8df7245e5da9ff5b1d43e820e400"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "688aee4526ec3595f392fd1e29b6e7740a3a46985cfbfd1f82808dc4672e2919"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
 
 [[files]]
 file = "config/animatica.properties"
@@ -263,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2387b742878d652c205125f9c6385c9fae7d6a000f5603130721f4257c617875"
+hash = "c8e44696c6267daf8114c58772af4c78083f3c658db2019b49c9ebe8df54bf5f"
 metafile = true
 
 [[files]]
@@ -287,21 +267,6 @@ hash = "bfc821011dfc8b9bdf7f8ae55377fbc57d5867ddf164f268f40ad02b4d201565"
 metafile = true
 
 [[files]]
-file = "mods/daycountmod.pw.toml"
-hash = "769dadb501727c3177efefa5dbc8b9edf63a5e26af5062f54b7d300bcd296884"
-metafile = true
-
-[[files]]
-file = "mods/debug-keybind.pw.toml"
-hash = "ec22596d0ecf42f62c1b89013a630f596249108bb68ed01a6a9155e27c8f99f0"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "05ebc0d7cef895e766ce7fbd6198519239e839d7650b7a654951a267034c0115"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "d541d1522108112346d35a6e9a3a9979d735cfc766d3ea6477c6306450c35f23"
 metafile = true
@@ -318,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9a816f2d1841566fa111d67830df9e429df90c1e77eac417f01aea1a9047def8"
+hash = "2a9e9968c598e234a84ccd9afc80a424d5c2ad9a37e4c85a0d36d06ddc9ebfa9"
 metafile = true
 
 [[files]]
@@ -328,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "216006067453efa7a750f0d8bac6ea84c503b79e40aba32bd77c9edd183ec232"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -347,23 +312,18 @@ hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "cf2220acf2150dd1bd105c354ce93eeac513fd358e05105826550d73a5425afc"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
-hash = "03436f3158e885ebe51f15a98e0afe611bd3391ad21f92b8ac7a185afb9d36c9"
+hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "0d1cfccabcb2630a2d198ac9c8f0f4c77434ac084b2edb9276fb4211587d666a"
-metafile = true
-
-[[files]]
-file = "mods/lightweight-inventory-sorting.pw.toml"
-hash = "89766f6f66fcb35b50c9a3be11402e035f88eb4e80c47dbb2be6c435325894a0"
-metafile = true
-
-[[files]]
-file = "mods/lighty.pw.toml"
-hash = "7e7b4a3841dca804578327d92802194bb787b42e102386c0fe5a0d08183ba519"
+file = "mods/libipn.pw.toml"
+hash = "3ded8f0e2b2408286789398b6a82ed97e55dd0bdec5585937c293187f133c342"
 metafile = true
 
 [[files]]
@@ -402,11 +362,6 @@ hash = "dc24a4cc0ad484d6593997c197ea602fac4d98c45dab0de6421e704c3851acd9"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "b2484dbeb2eb2fbdefa2497f2061c98438aab667d90e802194d23db1b1c51931"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "4bf3b4e6ce176f34d70fa961fee580956567b0a79e25e3be58e020b7e9f42e32"
 metafile = true
@@ -427,18 +382,23 @@ hash = "bd7760e94351d6e7c19eb1f155c7a5a7fd281340b7bd556da2765e931f6c9ab5"
 metafile = true
 
 [[files]]
+file = "mods/simple-day-display.pw.toml"
+hash = "9662d95348fbdfcb6ddf6aa0f6b0ca5fd78cd34176cc634d1016acf8557b0cc0"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d71e189f87b991121bb9fc47a880b6ddd4be27058d8b18da334e09e3117319d9"
+hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
 metafile = true
 
 [[files]]
