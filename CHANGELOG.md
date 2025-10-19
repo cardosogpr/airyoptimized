@@ -4,17 +4,29 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.7.1 for 1.21.10] - 19-10-2025
+
+### Added
+
+- Keybind Bug Fixes (replaces Debug Keybind)
+
+## [0.6.4 for 1.21.9] - 19-10-2025
+
+### Added
+
+- Keybind Bug Fixes (replaces Debug Keybind)
+
 ## [0.7-beta for 1.21.10] - 15-10-2025
 
-**Added**
+### Added
 
 - Clumps
 
-**Updated**
+### Updated
 
 - Updated the Fabric to 0.17.3
 
-**Info**
+### Info
 
 This week i will try to launch the oficial release to 1.21.9 and 1.21.10.
 
